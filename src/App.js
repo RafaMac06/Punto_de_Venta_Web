@@ -2,10 +2,10 @@ import React, { Component } from 'react';
 import './estilos_css/App.css';
 import Nav from './componentes/Nav';
 
-import Inventario from './componentes/Rick/Inventario/Inventario.js'
-import Clientes from './componentes/Rick/Clientes/Clientes.js'
-import Ventas from './componentes/Rick/Ventas/Ventas.js'
-import Caja from './componentes/Ralph/Caja/Caja.js';
+import Inventario from './componentes/Inventario/Inventario.js'
+import Clientes from './componentes/Clientes/Clientes.js'
+import Ventas from './componentes/Ventas/Ventas.js'
+import Caja from './componentes/Caja/Caja.js';
 
 
 
